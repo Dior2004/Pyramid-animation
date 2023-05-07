@@ -5,6 +5,7 @@
 }
 
 body {
+  min-width: 350px;
   min-height: 100vh;
   background-color: #050505;
   display: flex;
